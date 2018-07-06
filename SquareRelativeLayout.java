@@ -1,4 +1,3 @@
-package com.themetropolhotel.admin.themh.Utils;
 
 import android.annotation.TargetApi;
 import android.content.Context;
